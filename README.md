@@ -8,7 +8,7 @@ Endpoint destinado a consultas de CEP com PHP
 ### Request
 `GET /cep/`
 
-    curl -X GET -G "http://localhost:7000/cep/" -d "cep=19041330"
+    curl -X GET -G "http://localhost:7000/cep/" -d "cep=01033040"
     
 ### Response
 
